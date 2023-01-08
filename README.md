@@ -3,7 +3,7 @@ Prints out every word in a boggle board relativly fast OR autoselects the words 
 
 ## Installation
 1. Download the executabe from the latest release.
-2. Put a [dictionary](https://raw.githubusercontent.com/dwyl/english-words/master/words.txt) in the directory with the executable
+2. Put a [dictionary](https://raw.githubusercontent.com/dwyl/english-words/master/words.txt) called `words.txt` in the directory with the executable
 3. Run it.
 4. To the question if it should only print out positions type ...
 
