@@ -1,5 +1,5 @@
 # Boggle helper
-Prints out every word in a boggle board relativly fast OR autoclicks in an online game
+Prints out every word in a boggle board relativly fast OR autoselects the words in an online game
 
 ## Installation
 1. Download the executabe from the latest release.
